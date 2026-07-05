@@ -47,7 +47,9 @@ TaskFlow/
 │── style.css
 │── script.js
 │── README.md
-│── screenshot.png
+│
+└── images/
+    └── Screenshot.jpeg
 
 ---
 
@@ -56,7 +58,7 @@ TaskFlow/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/taskflow-todo-app.git
+git clone https://github.com/tapishbhardwaj/taskflow-todo-app.git
 ```
 
 2. Open the project folder.
@@ -80,8 +82,8 @@ git clone https://github.com/yourusername/taskflow-todo-app.git
 **Tapish Bhardwaj**
 
 GitHub:
-https://github.com/https://github.com/tapishbhardwaj
+https://github.com/tapishbhardwaj
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+⭐ If you found this project helpful, consider giving it a star on GitHub.
