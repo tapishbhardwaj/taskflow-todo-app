@@ -16,7 +16,7 @@ https://tapishbhardwaj.github.io/taskflow-todo-app/
 
 Example:
 
-![TaskFlow Screenshot](Screenshot.jpeg)
+![TaskFlow Screenshot](Screenshot/Screenshot.jpeg)
 
 ---
 
