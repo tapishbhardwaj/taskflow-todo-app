@@ -12,10 +12,6 @@ https://tapishbhardwaj.github.io/taskflow-todo-app/
 
 ## 📸 Screenshot
 
-> Add your project screenshot here.
-
-Example:
-
 ![TaskFlow Screenshot](images/Screenshot.jpeg)
 
 ---
